@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">Tiago Versiane</title>
+  <desc id="desc">Interfaces claras. Soluções que fazem sentido.. JAVASCRIPT  /  TYPESCRIPT  /  REACT.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#304457"/></pattern>
+    <clipPath id="bounds"><rect width="1280" height="420" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="1280" height="420" fill="#101f2d"/>
+    <rect x="850" width="430" height="420" fill="url(#grid)"/>
+    <rect x="0" width="7" height="420" fill="#a9ead1"/>
+    <circle cx="66" cy="58" r="5" fill="#a9ead1"/>
+    <text x="84" y="64" fill="#afc1cb" font-family="Consolas, monospace" font-size="17" letter-spacing="3">PORTFÓLIO / DESENVOLVIMENTO WEB</text>
+    <text x="60" y="174" fill="#f5f4ed" font-family="Segoe UI, Arial, sans-serif" font-size="70" font-weight="700" letter-spacing="-2">Tiago Versiane</text>
+    <text x="63" y="229" fill="#bccbd3" font-family="Segoe UI, Arial, sans-serif" font-size="24">Interfaces claras. Soluções que fazem sentido.</text>
+    <path d="M950 93h68v30h-36v80h36v30h-68z" fill="#a9ead1"/>
+    <path d="M1140 93h-68v30h36v80h-36v30h68z" fill="#a9ead1"/>
+    <path d="m1060 114-37 102" stroke="#a9ead1" stroke-width="9"/>
+    <rect x="1161" y="77" width="14" height="14" rx="3" fill="#e7ac76"/>
+    <path d="M62 341H1218" stroke="#344553"/>
+    <text x="63" y="377" fill="#a9ead1" font-family="Consolas, monospace" font-size="17" letter-spacing="1">JAVASCRIPT  /  TYPESCRIPT  /  REACT</text>
+    <text x="1216" y="377" text-anchor="end" fill="#8b9eac" font-family="Consolas, monospace" font-size="16">@tiagoversiane</text>
+  </g>
+</svg>
