@@ -14,7 +14,7 @@ Este portfólio reúne minha evolução na prática: dos fundamentos em JavaScri
 
 Da disponibilidade dos veículos à devolução: uma aplicação acadêmica para acompanhar **frota, clientes, locações, vistorias e pagamentos**.
 
-[![Painel real do rota., com indicadores da operação, devoluções e situação da frota](https://raw.githubusercontent.com/tiagoversiane/locadora-veiculos/main/docs/prints/01-painel.png)](https://github.com/tiagoversiane/locadora-veiculos)
+[![Tela de acesso do rota., com identidade visual e interface de demonstração](https://raw.githubusercontent.com/tiagoversiane/locadora-veiculos/main/docs/prints/14-login.png)](https://github.com/tiagoversiane/locadora-veiculos)
 
 **React 19 · TypeScript · Vite · Bootstrap 5 · Axios · JSON Server**
 
